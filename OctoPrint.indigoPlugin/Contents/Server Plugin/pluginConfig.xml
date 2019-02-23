@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<PluginConfig>
+	<SupportURL>http://www.yourdomain.com/plugin/config.html</SupportURL>
+
+	<!-- [SNIP - lots of <Field> definitions] -->
+
+</PluginConfig>
