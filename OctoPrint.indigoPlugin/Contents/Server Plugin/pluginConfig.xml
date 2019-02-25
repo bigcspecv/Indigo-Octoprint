@@ -1,6 +1,17 @@
 <?xml version="1.0"?>
 <PluginConfig>
-	<SupportURL>http://www.yourdomain.com/plugin/config.html</SupportURL>
+	<!-- <SupportURL>http://www.yourdomain.com/plugin/config.html</SupportURL> -->
+    <Field id="apiKey"
+           type="textfield"
+           defaultValue="See docs">
+        <Label>API Key:</Label>
+    </Field>
+
+    <Field id="hostname"
+           type="textfield"
+           defaultValue="See docs">
+        <Label>OctoPrint hostname/ip:</Label>
+    </Field>
 
 	<!-- [SNIP - lots of <Field> definitions] -->
 
